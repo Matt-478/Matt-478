@@ -3,7 +3,7 @@
 <!--
 **Matt-478/Matt-478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+## SKILLS
 Hi, I'm Matt
 As a Jr. Front End developer I work with these technologies:
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,8 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
   
   ---
-  
+
+## ME
 ***Interesting fact about me***:
 <p> I'm obsessed with doggo's 🐶,
   enjoy a cup of coffee ☕️
@@ -33,6 +34,7 @@ As a Jr. Front End developer I work with these technologies:
 
 ---
 
+## CONNECT
 ***Ready to take the next step?*** 😏
 - E-mail: matisskomlevs@gmail.com
 - LinkedIn: [Matiss Komlevs](https://www.linkedin.com/in/matīss-komļevs-20343020b/)
