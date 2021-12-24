@@ -26,6 +26,7 @@ As a Jr. Front End developer I work with these technologies:
   enjoy a cup of coffee ☕️
   and love buying more plants 🌱 </p>
 <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
+<img src="https://giphy.com/embed/2jMoweVLBUbLKx9Ty9" />
 
 ---
 
