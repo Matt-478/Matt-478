@@ -25,8 +25,11 @@ As a Jr. Front End developer I work with these technologies:
 <p> I'm obsessed with doggo's 🐶,
   enjoy a cup of coffee ☕️
   and love buying more plants 🌱 </p>
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
-<img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoyin a pupaccino/>
+
+<p float="left">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
+  <img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
+</p>
 
 ---
 
