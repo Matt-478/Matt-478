@@ -1,8 +1,6 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### 👋 Hello there 👋
 
-<!--
-**Matt-478/Matt-478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ## Technologies
 Hi, I'm Matt\
 As a Jr. Front End developer I work with these technologies:
@@ -18,8 +16,6 @@ As a Jr. Front End developer I work with these technologies:
 - <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <image src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
-  
-
 
 ## Me
 ***Interesting facts about me***: \
@@ -31,8 +27,6 @@ As a Jr. Front End developer I work with these technologies:
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
   <img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
 </p>
-
-
 
 ## Connect
 ***Ready to take the next step?*** 😏
