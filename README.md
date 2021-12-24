@@ -34,8 +34,8 @@ As a Jr. Front End developer I work with these technologies:
 </p>
 
 
-  * [If I'd be a dog:](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
-  *  <img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
+  * ![If I'd be a dog:](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+  *  !<img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
 
 ---
 
