@@ -22,7 +22,9 @@ As a Jr. Front End developer I work with these technologies:
   ---
   
 ***Interesting fact about me***:
-<p> I'm obsessed with doggo's </p>
+<p> I'm obsessed with doggo's 🐶,
+  enjoy a cup of coffee ☕️
+  and love buying more plants 🌱 </p>
 <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
 
 ---
