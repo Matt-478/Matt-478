@@ -28,14 +28,10 @@ As a Jr. Front End developer I work with these technologies:
   and love buying more plants🌱 </p>
  <p>In my free time I enjoy learning French and pursuing photography</p>
 
-<p float="left">
+<p float="centre">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
   <img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
 </p>
-
-
-  * ![If I'd be a dog:](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
-  *  !<img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
 
 ---
 
