@@ -30,4 +30,4 @@ I'm **obsessed** with doggo's
 
 Ready to take the next step? 😏
 - E-mail: matisskomlevs@gmail.com
-- LinkedIn: [Matiss Komlevs(https://www.linkedin.com/in/matīss-komļevs-20343020b/)]
+- LinkedIn: [Matiss Komlevs](https://www.linkedin.com/in/matīss-komļevs-20343020b/)
