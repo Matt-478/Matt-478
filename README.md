@@ -26,7 +26,7 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 - <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <image src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=violet" />
   
 
 **obsessed** with doggo's
