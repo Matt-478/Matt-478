@@ -4,7 +4,7 @@
 **Matt-478/Matt-478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## SKILLS
-Hi, I'm Matt
+Hi, I'm Matt\
 As a Jr. Front End developer I work with these technologies:
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,9 +23,9 @@ As a Jr. Front End developer I work with these technologies:
 
 ## ME
 ***Interesting facts about me***:
-<p> I'm obsessed with doggo's 🐶,
-  enjoy a cup of coffee ☕️
-  and love buying more plants🌱 </p>
+<p> I'm obsessed with doggo's 🐶,\
+  enjoy a cup of coffee ☕️\
+  and love buying more plants🌱 </p>\
  <p>In my free time I enjoy learning French and pursuing photography</p>
 
 <p align="center">
