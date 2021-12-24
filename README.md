@@ -19,10 +19,10 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
   
-  ---
+
 
 ## Me
-***Interesting facts about me***:
+***Interesting facts about me***: \
 I'm obsessed with doggo's 🐶,\
 enjoy a cup of coffee ☕️\
 and love buying more plants🌱\
@@ -33,7 +33,7 @@ and love buying more plants🌱\
   <img src="https://media.giphy.com/media/2jMoweVLBUbLKx9Ty9/giphy.gif" alt=""dog enjoying a pupaccino/>
 </p>
 
----
+
 
 ## Connect
 ***Ready to take the next step?*** 😏
