@@ -29,6 +29,6 @@ As a Jr. Front End developer I work with these technologies:
 </p>
 
 ## Connect
-***Ready to take the next step? 🤩 ***
+Ready to take the next step? 🤩
 - E-mail: matisskomlevs@gmail.com
 - LinkedIn: [Matiss Komlevs](https://www.linkedin.com/in/matīss-komļevs-20343020b/)
