@@ -20,7 +20,7 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
   
 ###Interesting fact about me:###
-<p>I'm **obsessed** with doggo's</p>
+ I'm **obsessed** with doggo's 
 <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
 
 ###Ready to take the next step?### 😏
