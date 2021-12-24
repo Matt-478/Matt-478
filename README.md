@@ -19,10 +19,10 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
   
-###Interesting fact about me:
+***Interesting fact about me***:
  I'm **obsessed** with doggo's 
 <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
 
-###Ready to take the next step? 😏
+***Ready to take the next step?*** 😏
 - E-mail: matisskomlevs@gmail.com
 - LinkedIn: [Matiss Komlevs](https://www.linkedin.com/in/matīss-komļevs-20343020b/)
