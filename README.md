@@ -18,10 +18,10 @@ As a Jr. Front End developer I work with these technologies:
   <image src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" />
 
 ## Me
-***Interesting facts about me***: \
-- Obsessed with doggo's 🐶\
-- Enjoy a cup of coffee ☕️\
-- Love buying more plants🌱\
+***Interesting facts about me***: 
+- Obsessed with doggo's 🐶
+- Enjoy a cup of coffee ☕️
+- Love buying more plants🌱
 
 <p align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
