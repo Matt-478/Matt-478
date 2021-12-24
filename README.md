@@ -22,3 +22,4 @@ As a Jr. Front End developer I work with these technologies:
 **obsessed** with doggo's
 <iframe src="https://giphy.com/embed/mCRJDo24UvJMA" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA">via GIPHY</a></p>
 {insert dog gif here}
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="hard working dog"/>
